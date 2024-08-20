@@ -16,4 +16,3 @@ class Bank:
     def _merge_balance(self, other):
         self._balance += other._balance
 
-#скопированный
